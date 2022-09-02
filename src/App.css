@@ -1,0 +1,29 @@
+.app h1 {
+  color:rgb(0, 0, 0) !important;
+}
+
+.app {
+  margin-left:2%;
+  margin-right:2%;
+  padding:5px;
+  background-color: rgb(228, 223, 223);
+}
+
+
+.app h2 {
+  color:red;
+  text-align: left;
+  float: left;
+}
+
+.app h3 {
+  color:red;
+  text-align: right;
+  float: right;
+}
+
+h1 {
+  color:rgb(0, 0, 0) !important;
+  text-align: center;
+  font-size:3rem;
+}
