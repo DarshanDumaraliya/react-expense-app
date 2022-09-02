@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Project images
 
-![alt text](https://ibb.co/X2qs4MR)
+[url=https://ibb.co/X2qs4MR][img]https://i.ibb.co/mD3qBgW/image1.png[/img][/url]
