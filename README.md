@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Project images
 
- <a href="https://ibb.co/pvkv4Hr"><img src="https://i.ibb.co/jvjv3CZ/react-expense.png" alt="react-expense" border="0" height="400px" width="800px"></a>
+ <a href="https://ibb.co/pvkv4Hr"><img src="https://i.ibb.co/jvjv3CZ/react-expense.png" alt="react-expense" border="0" height="600px" width="800px"></a>
